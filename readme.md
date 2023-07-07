@@ -13,7 +13,7 @@ pip install pillow
 pip install qrcode
 
 ```
-You can only run the requirements.bat
+You can only run the [requirements.bat](requirements.bat)
 
 
 ## future updates
