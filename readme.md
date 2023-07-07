@@ -16,7 +16,7 @@ pip install qrcode
 You can only run the [requirements.bat](requirements.bat)
 
 
-## future updates
+## Future updates
 
 ➔ Make editable qrcode | change color and other things to qrcode
 
