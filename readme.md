@@ -17,6 +17,7 @@ You can only run the requirements.bat
 ## future updates
 
 ➔ Make editable qrcode | change color and other things to qrcode
+
 ➔ Put files to download by qrcode like PDF files
 
 
