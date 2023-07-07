@@ -6,6 +6,8 @@ This is Python application with graphical user interface to generate QRcodes.
 
 This application use the package manager [pip](https://pip.pypa.io/en/stable/) to install.
 
+![qr](https://github.com/Redrider1666/QRCodegen/assets/69794643/8d963499-656e-4fcc-99e6-c0d6cf6bafaf)
+
 ```bash
 pip install pillow
 pip install qrcode
